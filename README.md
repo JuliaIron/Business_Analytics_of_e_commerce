@@ -52,7 +52,9 @@ In an imagined scenario, we hypothesized that Olist had completely changed its t
 
 We began with **gathering data**. In our case, we were provided with an SQL file which combined both Olist sales and marketing information. This allowed us to visually explore data in more detail and do further database querying. We also connected different tables in an ER, or entity-relationship diagram (see below). 
 
-![ER.png](attachment:ER.png)
+<div>
+<img src="https://github.com/plumeris/Mid-bootcamp-project/blob/main/ER.png?raw=true" width="800"/>
+</div>
 
 For the **data cleaning** part, we further explored SQL tables in Python. Using Pandas, we examined the dataset for missing or skewed values. Since the dataset was very large we singled out the following tables:
 
