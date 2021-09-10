@@ -112,7 +112,9 @@ Without doubt, Olist is a fast growing e-commerce company that has the potential
 - improve delivery times by for example investing in strategically positioned logistics hubs or otherwise improve delivery and pick-up systems
 - establish shorter routes and accomodate a larger number of local producers
 - encourage customers to buy more items at once
-- pursue a more sustainable business model
+- improve  internal data collection (e.g. cross-sharing data with delivery partners)
+- improve database management (confusing product categorising, no existing product inventory)
+
 
 ## Repository contents<a class="anchor" id="repositoryContents"></a>
 
